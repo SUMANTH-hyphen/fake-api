@@ -224,11 +224,11 @@
         "walker"
     ],
     "bargraph" : {
-        "labels" : ["Guest, User"],
+        "labels" : ["Breeds, Sub-Breeds"],
         "data" : [[500,350,200,400], [400,380,200,320]]
     },
     "piechart" : {
-        "labels" : ["Basic Tees", "Custom Short", "Super Hoodies"],
+        "labels" : ["English", "Plott", "Walker", "iblizan", "basset"],
         "data" : [55, 31, 14]
     }
 }
